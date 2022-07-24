@@ -25,6 +25,7 @@ return EasySplashScreen(
           fontSize: 50,
           color: Colors.blueAccent,
           ),
+          //? 123 //??
       ),
       backgroundColor: Colors.grey.shade400,
       showLoader: true,
